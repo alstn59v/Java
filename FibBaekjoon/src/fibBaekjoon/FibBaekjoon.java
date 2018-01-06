@@ -28,11 +28,11 @@ public class FibBaekjoon {
 	
 	static int fibonacci(int n) {
 	    if(n == 0) {
-	        zeroCount++;
+	        zeroCount++; // '0'이 호출 된 횟수 증가
 	        return 0;
 	    }
 	    else if(n == 1) {
-	        oneCount++;
+	        oneCount++; // '1'이 호출 된 횟수 증가
 	        return 1;
 	    }
 	    else {
