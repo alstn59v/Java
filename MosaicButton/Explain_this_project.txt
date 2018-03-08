@@ -1,0 +1,14 @@
+Ko : main 클래스 파일 - MosaicButtonMain.java
+En : main Class file - MosaicButtonMain.java
+
+Ko : 이미지 하나를 받아와서,
+En : Bring a image(photo) file,
+
+Ko : NxN개의 버튼(cell)의 배경으로 정한 뒤,
+En : Set N*N button's background image, which we brought.
+
+Ko : 버튼을 누르면, 해당 버튼의 배경 이미지가 Mosaic 이미지로 바뀌고,
+En : Press button, button's background is changed mosaic-image,
+
+Ko : 버튼을 다시 누르면, 원래의 이미지가 된다.
+En : Press button again, button's background is restored to its original image.
